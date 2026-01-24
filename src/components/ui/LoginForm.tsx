@@ -15,7 +15,7 @@ const LoginForm = () => {
   };
 
   return (
-    <div className="glass-container rounded-3xl p-8 md:p-10 w-full max-w-md mx-4 animate-fade-in">
+    <div className="glass-container rounded-3xl p-8 md:p-10 w-full max-w-md animate-fade-in">
       {/* Header */}
       <div className="text-center mb-8">
         <div className="w-16 h-16 mx-auto mb-4 rounded-2xl glass-button flex items-center justify-center">
